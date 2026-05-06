@@ -2,6 +2,6 @@
 This is an example of taking raw data from a public source, performing ETL within MSSQL, and then creating an executive dashboard within Power BI. 
 
 ### Dashboard Preview
-![Executive Dashboard Demo](Power_Bi/dashboard_demo.gif)
+![Executive Dashboard Demo](Power_BI/dashboard_demo.gif)
 
 This is the Kaggle dataset being utilized for this project: [https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data?resource=download ](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
